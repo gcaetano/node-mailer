@@ -1,0 +1,26 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "I'll use that to send mails.",
+  "main": "start-mailer.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcaetano/node-mailer.git"
+  },
+  "keywords": [
+    "node",
+    "nodemailer",
+    "e-mails",
+    "mocha",
+    "chai"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcaetano/node-mailer/issues"
+  },
+  "homepage": "https://github.com/gcaetano/node-mailer#readme"
+}
